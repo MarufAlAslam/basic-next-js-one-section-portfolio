@@ -12,13 +12,15 @@ export default function Home() {
           height={38}
           priority
         />
-        <h3 className="text-2xl font-bold text-center w-full">Do You Need A Website??</h3>
+        <h3 className="text-2xl font-bold text-center w-full">
+          Do You Need A Website??
+        </h3>
         <p className="text-center">
-          I’m a software engineer at Taskco, a top-rated Fiverr freelancer, and
-          the creator of Maflex, an open-source CSS library. Balancing work, my
-          Master’s studies, and family, I’m building ventures like Unialoy and
-          EducationHub while preparing for IELTS and embracing life as a new
-          parent.
+          I’m a dedicated software engineer and top-rated Fiverr freelancer with
+          over four years of experience delivering high-quality web development
+          projects. I prioritize clear communication and timely delivery,
+          ensuring every client’s needs are met with precision. My focus is
+          always on providing excellent results, no matter the project size.
         </p>
 
         <div className="flex gap-4 items-center flex-col justify-center w-full sm:flex-row">
